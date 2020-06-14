@@ -84,6 +84,7 @@ function addProduct(product) {
             resolve(prod);
         });
     });
+    
 }
 
 function updateProduct(product) {
